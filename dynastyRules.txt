@@ -1,0 +1,228 @@
+
+Dynasty League Rules
+What is Dynasty Fantasy Football?
+
+Google it, I don’t wanna write this out
+
+
+Dues
+
+Consistent, engaged managers are critical to the success of a dynasty league. An owner trading away future draft picks and mortgaging the future for a “win-now” strategy only to quit the league at the start of the following season is an all-too-real possibility. For this reason, league dues must always be paid 2 years in advance.
+
+
+Paying dues in advance helps ensure competitiveness in two ways:
+
+Owners are bought in for the long haul, reducing the likelihood that someone with a terrible team and no draft picks refuses to pay their dues. If you’ve already paid for the next 2 seasons, why not at least try to turn your team around?
+In the event an owner does want to quit, having 2 years of banked dues allows the league to find a new owner more easily. Who would want to take over managing a dynasty league team that has no future draft picks and can’t compete for the foreseeable future AND pay for the privilege? In the event we required a new owner, the league would use the 2 years of advance-paid dues to cover the new owner’s dues for their first two seasons
+
+On league start, owners will pay 3 years-worth of dues. This covers the dues for the first year, and establishes their 2 year pre-pay. From there, each year, each owner will pay their advance dues on a “rolling” basis.
+
+Trades
+
+Draft picks and players are tradeable in dynasty leagues.
+
+
+Owners can trade future (or initial) draft picks for other picks or players at any time during the season or offseason. The only limitation for trading future picks is based on the number of years pre-paid. If an owner has paid two seasons in advance, they can trade future draft picks for the next season and the season after, but cannot trade draft picks from the third future year. This is to encourage long term thinking and investment on behalf of owners.
+
+
+Collusion rarely happens in dynasty leagues; why knowingly trade away all your players for nothing if you are then stuck with that roster for the next few years? With this in mind, veto votes on trades will only be done on an as requested basis. The default state for any trade will be auto-approved, trades will only be voted on if an owner requests it.
+
+Rosters
+
+In order to encourage trading and long-term team building, dynasty leagues typically have much deeper rosters than redraft leagues. Waivers will be thin, and finding actual starting-caliber players on waivers should be relatively rare.
+
+
+DST’s and Kickers have been removed since they are less about the individual player and more about the team’s success. In dynasty, owners should be rewarded for drafting and developing good players, which is challenging to do with the randomness of DSTs and Kickers.
+
+
+Tentative roster construction is below, and will change based on the final number of teams in the league:
+
+
+8 team league (240 rostered players)
+
+Starting Players
+
+1 QB
+
+1 Superflex (QB/RB/WR/TE)
+
+2 RB
+
+3 WR
+
+1 TE
+
+4 Flex (RB/WR/TE)
+
+
+Bench
+
+14 spots
+
+2 IR spots
+
+
+10 team league (270 rostered players)
+
+Starting Players
+
+1 QB
+
+2 RB
+
+2 WR
+
+1 TE
+
+4 Flex (RB/WR/TE)
+
+1 Superflex (QB/RB/WR/TE)
+
+
+Bench
+
+16 spots (3 rostered QB maximum, counting both bench and starting players)
+
+2 IR Spots
+
+
+
+Taxi Squad
+
+Each team has additional roster space in the form of a “taxi squad”, which can be used to stash rookies and sophomores who are not yet ready to join an active roster. The maximum size of the taxi squad is 4 players, and only rookies and sophomores are eligible.
+
+
+The players on the taxi squad are not able to be started in games, however, owners can activate their players from the taxi squad at any point during the season. Once a player is activated from the taxi squad, they cannot be returned to it.
+
+
+While a player can remain on a taxi squad up to the conclusion of their sophomore season, players can only be added to the taxi squad following the conclusion of the rookie draft (or startup draft in year 1). If a player is not already on the taxi squad prior to the first game of their rookie season, they are no longer eligible to be placed on the taxi squad.
+
+
+Any players who remain on the taxi squad at the conclusion of their sophomore season will be considered “moved to the bench” and will count toward that team’s total players for roster cutdowns in the offseason.
+
+
+Drafting
+
+Initial Draft
+
+The startup draft includes all players and rookies for the year 2023. Due to the size of the draft, we will split it into two days.
+
+
+First 8 rounds (2 minutes per pick): 2 hours max
+
+Remaining 24 rounds (1 minute per pick): 3 hours max
+
+
+The draft will be a snake draft, with the order randomly determined. Draft picks are tradeable as soon as the draft order is released.
+
+
+Annual Rookie/Free Agent Draft
+
+Each year (except year 1) will have a 4 round rookie + free agent draft. Owners can draft any combination of available free agents and rookies.
+
+
+Draft order will be determined as follows:
+
+Non-playoff teams will be sorted by the inverse of their max potential points for the season. This ensures that the 1st overall pick is allocated to the “true” worst team in the league.
+Playoff teams will be sorted in inverse order of their playoff finish (4th place gets pick 5, 3rd place gets pick 6, and so on)
+
+Each round will have the same order (this is not a snake draft). The 1st overall pick will pick at the top of each round.
+
+
+Roster Cutdowns
+
+In order to ensure a moderate level of parity in the league while still rewarding owners who are good at developing players, each offseason will include a small roster cutdown prior to the Rookie/FA draft. The roster cutdown also ensures that every team has enough roster spots available for the players they draft in the Rookie/FA draft.
+
+
+During the cutdown period, owners must drop players from their roster to get down to the “roster cap”. Roster cap is always calculated on a team-by-team basis based on this formula:
+
+        (# of Starter slots + # of Bench slots) - # of Picks in the upcoming Rookie/FA draft
+
+
+All players on the owner’s roster (Starters + Bench + IR) count toward the roster cap except for taxi squad players with remaining eligibility.
+
+
+Free Agency
+
+FAAB ($100 budget, daily processing)
+
+Locks on conclusion of the season, resumes following the conclusion of the Rookie/FA Draft
+
+
+Rule Changes
+
+League rule changes (such as scoring, scheduling, roster size, etc) can be proposed at any time during the offseason, and must be agreed upon by 6 of the 8 teams to take effect.
+
+
+Adding Teams
+
+Adding teams may also be proposed during the offseason, and would require a unanimous vote from all owners to take effect. New teams would be added 2 at a time, and a series of rebalancing events would trigger upon adding teams:
+
+Roster caps are reduced to 20 during the cutdown period for that year only, restocking the free agent pool for the new teams
+Bench sizes (and possibly starting player slots) will be reduced in order to maintain the overall “rostered players” target of 250-300 players league-wide. How we execute this will be determined by a vote of existing owners
+The two new teams exclusively will conduct a full draft of the free agent pool to fill up their rosters to the roster cap
+The rookie/free agent draft will take place with the remaining free agents and any rookies. The new teams will be automatically assigned picks 1 and 2 (coin flip determines order) in each round of this draft and the rookie/free agent draft the year after
+
+New Owners
+
+In the event that an owner chooses to quit the league or is forcibly removed by the league, a new owner will be sought by the league. Because of the (very) likely event that the team in question is in disarray, the league reserves the right to optionally add certain “sweeteners” to the deal for a prospective new owner. Examples include automatic rights to the first pick in the upcoming rookie/FA draft, as well as “dues free” entry into the league for that owner’s first and/or second season. The commissioner reserves the right to add these sweeteners based on his sole discretion; these do not require a vote from the league.
+
+
+Payouts
+
+Nominal value of payouts will vary depending on size of the league and yearly dues selected at the creation of the league. However, the payout ratios relative to the season purse (sum of all dues paid for that season) remain the same:
+
+
+
+
+
+
+
+Playoffs
+
+Playoffs will take place over a 4 week span from week 14 to week 17. The top 4 teams (regardless of division) will make the playoffs, and each of the two rounds will take place over 2 weeks (cumulative score across the weeks determines the winner)
+
+
+Scheduling
+
+Scheduling will be based on divisions (tentative divisions below)
+
+East
+
+Stroh
+
+Kyle L
+
+Lee
+
+Ryan T
+
+
+West
+
+Steven
+
+Nick
+
+Andrew
+
+Wiz
+
+
+Tanking
+
+Because dynasty fantasy football takes place over such a long time-frame, tanking is allowed (possibly encouraged). However, the way an owner goes about tanking can jeopardize the competitiveness of the league. For this reason, it is useful to group tanking into two broad buckets:
+
+
+Tanking by trading away all your good players for future draft capital or younger players
+
+This is totally fine, and is part of the fun of dynasty fantasy football
+Tanking by intentionally setting a suboptimal lineup each week
+
+This ruins the competitiveness of the league by handing out random free wins during the season. Draft order will be determined by max potential points to mitigate the incentive to do this (even if you bench all your good players each week, those players still count toward your max potential points, which determines draft order).
+While this will likely discourage any active tanking, it may not help in the case of a disinterested/inattentive owner who just doesn’t bother with setting their lineup. In the case of an owner who is constantly inattentive and does not set their lineup consistently, the league reserves the right to recall the team from the owner. In this case, all prepaid dues are forfeited.
+The owners in this league have been selected because they have demonstrated track records of active participation in fantasy football leagues over several years, so we do not anticipate having to recall a team from an owner. This league power would only be used as a last resort
+
+Appendix
+
+Steven is the worst owner of the league and has the worst team every year. This is always true. 
